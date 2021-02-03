@@ -93,7 +93,7 @@ a.links{
 }
 
 .main .box1{
-    background-image: url(img/img-content.png);
+    background-image: url(img/img-2.png);
     width: 40%;
     height: 100%;
     background-size: cover;
@@ -464,7 +464,7 @@ a.links{
 
 @media (max-width:480px){
   .footer{
-      height:12%;
+      height:9%;
     }
 }
 
