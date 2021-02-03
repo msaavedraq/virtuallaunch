@@ -1,0 +1,17 @@
+@font-face {
+  font-family:BrandonText;
+  src: url(BrandonText-Regular.otf);
+  font-weight: 300;
+}
+
+@font-face {
+  font-family:Caslon224;
+  src: url(Caslon224MediumBold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family:Brandon;
+  src: url(Brandon_med.otf);
+  font-weight: medium;
+}
